@@ -14,7 +14,7 @@ dependencies:
   firebase_core: ^1.11.0
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.0.1
+  flutter_bloc: ^8.1.1
 
 dev_dependencies:
 
@@ -22,6 +22,12 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+dependencies:
+  kittens:
+    git:
+      url: git@github.com:munificent/kittens.git
+
 flutter:
 
-  uses-material-design: true
+uses-material-design: true
+ 
