@@ -22,11 +22,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-dependencies:
-  kittens:
-    git:
-      url: git@github.com:munificent/kittens.git
-
 flutter:
 
 uses-material-design: true
